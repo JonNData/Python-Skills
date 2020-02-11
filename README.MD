@@ -1,1 +1,1 @@
-This repository will encase practice skills of Pythong
+This repository will encase practice skills of Python
